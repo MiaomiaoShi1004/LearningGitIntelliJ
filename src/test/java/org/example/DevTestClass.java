@@ -4,6 +4,5 @@ public class DevTestClass  {
     public static void main(String[] args) {
         System.out.println("DevClassTest");
 //        Miaomiao added this
-//        Miaomiao's commit 3
     }
 }
